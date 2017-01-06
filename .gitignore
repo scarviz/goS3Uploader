@@ -1,0 +1,8 @@
+*.a
+*.out
+*.exe
+*.bat
+debug*
+.vscode
+
+goS3UploaderV2
